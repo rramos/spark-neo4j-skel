@@ -1,0 +1,6 @@
+.idea
+target
+derby.log
+metastore_db
+project/project
+project/target
